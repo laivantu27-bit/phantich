@@ -1,0 +1,8 @@
+ProductName,Category,Price,StockQuantity,Rating,Description
+Laptop,Electronics,1200,10,4.5, Good laptop
+Phone,Electronics,800,15,4.2, Nice phone
+Table,Furniture,200,5,3.8, Wooden table
+Chair,Furniture,100,20,4.0, Office chair
+Headphone,Electronics,150,30,4.6, Good sound
+Camera,Electronics,,12,4.3, Digital camera
+Desk,Furniture,300,-5,3.5, Study desk
